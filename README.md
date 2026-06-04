@@ -11,7 +11,6 @@ Soy estudiante de Ingeniería de Control en la Universidad Nacional de Colombia 
 💻 Stack Principal: AWS, Azure, GCP, Terraform, Docker, Kubernetes, Python y Linux
 
 🛠️ Tecnologías y Herramientas
-🛠️ Tecnologías y Herramientas
 
 ### Cloud & Infraestructura como Código (IaC)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
