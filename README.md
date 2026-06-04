@@ -11,3 +11,6 @@ Soy estudiante de Ingeniería de Control en la Universidad Nacional de Colombia 
 💻 Stack Principal: AWS, Azure, GCP, Terraform, Docker, Kubernetes, Python y Linux
 
 🛠️ Tecnologías y Herramientas
+ Pandas OpenCV Pytorch scikit_learn
+
+My Skills
