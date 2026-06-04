@@ -1,11 +1,13 @@
+¡Hola! 👋 Soy Alejandro
+
 🚀 Sobre mí
 
-🎓 Estudiante de Ingeniería de Control en la Universidad Nacional de Colombia Sede Medellín.
+Soy estudiante de Ingeniería de Control en la Universidad Nacional de Colombia (Sede Medellín). Apasionado por la convergencia entre la automatización de sistemas y el mundo del software, con un fuerte enfoque en Arquitectura Cloud, Infraestructura como Código (IaC) y DevOps.
 
-📊 Interesado en Ingeniería de Datos, Arquitectura Cloud, DevOps, Automatización de Procesos e Infraestructura como Código (IaC).
+🎓 Estudiante de Ingeniería de Control @ Universidad Nacional de Colombia (Medellín)
 
-💻 Experiencia con VS Code, AWS, Azure, GCP, Python, SQL y despliegue de infraestructura eficiente.
+📊 Áreas de interés: Infraestructura Cloud, Automatización de Procesos y Multi-Cloud
 
-⚡ Tecnologías y Herramientas conocidas
+💻 Stack Principal: AWS, Azure, GCP, Terraform, Docker, Kubernetes, Python y Linux
 
-🛠️ Ecosistema de Desarrollo y Cloud
+🛠️ Tecnologías y Herramientas
